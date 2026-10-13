@@ -52,4 +52,3 @@ while(fgets(str,100,fp)!=NULL){
         fclose(out);
         return 1;
 }
-                                        str[i]=' ';
