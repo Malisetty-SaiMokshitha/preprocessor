@@ -1,0 +1,26 @@
+#include<stdio.h>
+//test case 1:single line comment
+#define SIZE 100
+#define NUM 25
+#define  X+Y 30
+#define X 5
+#define Y (X+Y)
+int main()
+{
+/*uwyeeysr wryugewtrfewtfe
+uettewgfgew ueugtdtuytged
+egyetfe duhuedg
+*/
+int result=X*X+Y*Y;
+int a=SIZE;//mafeytfgiuduh7etewt
+int b=NUM;
+int c=10;
+int d=X+Y;
+/*dhfhrr
+uytrdcfvghj
+*/
+int sum=a+b+c;
+printf("Value of a =%d\n",a);
+print("Value of b=%d\n",b);
+return 0;
+}
